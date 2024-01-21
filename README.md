@@ -1,6 +1,6 @@
 # DNI_Generator
 
-Comments in Catalan, Code in English.
+Comments in Catalan (my native lenguage), code in English.
 
 The comments in this code are written in Catalan, which is my native language, while the code itself is in English. This choice aims to facilitate exportation and usage for a broader audience. If you have any questions or need further assistance, feel free to ask!
 
